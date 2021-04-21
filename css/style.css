@@ -70,7 +70,8 @@ button{
 	height: 6.8vh;
 	width: 15vh;
 	font-size: 5vh;
-	border-radius: 12px;
-	background-color: #FFA500;
-	/*color: #FFFFFF;*/
+	border-radius: 8px;
+	border: none;
+	background-color: #87CEEB;
+	color: #FFFFFF;
 }
