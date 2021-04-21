@@ -1,0 +1,76 @@
+*{margin: 0%;padding: 0%;}
+.logo{
+	padding-top: 10vh;
+	font-size: 15vh;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+.description{
+	padding-top: 2vh;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+form{
+	padding-top: 3vh;
+	text-align: center;
+}
+#name{
+	font-size: 5vh;
+}
+.se{
+	height: 4vh;
+
+}
+.about{
+	padding-top: 50vh;
+/*	padding-left: 50vh;
+*/	padding-bottom: 9vh;
+/*	padding-right: 50vh;
+*/
+text-align: center;
+}
+.about-me{
+	font-size: 6vh;
+	padding-bottom: 2vh;
+	font-family: 'Lato', sans-serif;
+	/*padding-left: 5vh;*/
+	/*padding-right: 50vh;*/
+	text-align: center;
+
+}
+li{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3vh;
+	text-align: center;
+	margin: 2vh;
+
+}
+.contact1{
+	text-align: center;
+}
+.email{
+	height: 4vh;
+   /* width: 11vh;*/
+   width: 78vh;
+   	/*padding-bottom: 5vh;*/
+}
+.contact2{
+	padding-bottom: 5vh;
+	font-size: 6vh;
+	font-family: 'Lato', sans-serif;
+}
+/*.space{
+	padding: 5vh;
+}*/
+.message{
+	height: 20vh;
+	width: 78vh;
+}
+button{
+	height: 6.8vh;
+	width: 15vh;
+	font-size: 5vh;
+	border-radius: 12px;
+	background-color: #FFA500;
+	/*color: #FFFFFF;*/
+}
