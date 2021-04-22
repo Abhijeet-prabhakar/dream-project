@@ -9,6 +9,7 @@
 	padding-top: 2vh;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
+	padding-bottom: 15vh;
 }
 form{
 	padding-top: 3vh;
@@ -22,7 +23,7 @@ form{
 
 }
 .about{
-	padding-top: 50vh;
+	padding-top: 27.8vh;
 /*	padding-left: 50vh;
 */	padding-bottom: 9vh;
 /*	padding-right: 50vh;
@@ -74,4 +75,10 @@ button{
 	border: none;
 	background-color: #87CEEB;
 	color: #FFFFFF;
+}
+.gcse-search{
+	size: 1;
+	margin-left: 100vh;
+	max-width: 10vh;
+	width: 5vh;
 }
