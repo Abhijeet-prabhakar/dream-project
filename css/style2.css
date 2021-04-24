@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: azure;
+    /* background-color: black; */
+    font-family:  'Lato', sans-serif;
+    font-size: 12vh;
+}
+h2{
+    text-align: center;
+    color: azure;
+    font-size: 7vh;
+    /* background-color: black; */
+  font-family: 'Montserrat', sans-serif;
+}
+button{
+    text-align: center;
+    background-color: azure;
+    color: black;
+    font-size: 5vh;
+    border: none;
+    border-radius: 8px;
+    
+}
+body{
+    background-color: black;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+client:
+user_input: = query
+logic:
+input = variable = input to the data.base
+if variable contains "@" put it inside email.desk in the data.base
+else if 
+put it in the content section or content.desk in data.base.
+python-side logic:
+email.desk = query 
+smtp send mail to query 
+mail = message = content 
+content = "anything" content would be in a variable so we can change it later easily rather then rewrite each string in the code 
+if smtp sent mail == true:
+print("mail sent was successful") on server side
+else if:
+print("mail not sent") on server side
